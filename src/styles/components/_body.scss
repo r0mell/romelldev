@@ -1,0 +1,27 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   scroll-behavior: smooth;
+}
+
+body {
+   background: $--color-bg;
+}
+a {
+   color: unset;
+   text-decoration: none;
+}
+.section__padding {
+   padding: 4rem 6rem;
+}
+.section__padding__header {
+   padding: 0rem 6rem 1rem 6rem;
+}
+.section__padding__footer {
+   padding: 4rem 6rem 1rem 6rem;
+}
+
+.section__margin {
+   margin: 4rem 6rem;
+}
