@@ -20,8 +20,8 @@ const ProyectCard = ({ proyect }) => {
 
             </div>
             <div className='proyect-card-content-links'>
-               <a href={proyect.code} target="_blank">Code</a>
-               <a href={proyect.source} target="_blank">Source</a>
+               <a href={proyect.code} target="_blank" rel="noreferrer">Code</a>
+               <a href={proyect.source} target="_blank" rel="noreferrer">Source</a>
             </div>
 
          </div>

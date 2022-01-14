@@ -36,9 +36,9 @@ const Navbar = () => {
         <div className="navbar-sign">
           {/* <p>Sing in</p>
           <button type='button'>Sign up</button> */}
-          <a href="https://github.com/r0mell" target="_blank"><AiFillGithub color='#fff' size="2rem" /></a>
-          <a href="https://www.linkedin.com/in/r0mell" target="_blank"><AiFillLinkedin color='#fff' size="2rem" /></a>
-          <a href="https://www.instagram.com/r0mell_fer/?hl=es-la" target="_blank"><AiFillInstagram color='#fff' size="2rem" /></a>
+          <a href="https://github.com/r0mell" target="_blank" rel="noreferrer"><AiFillGithub color='#fff' size="2rem" /></a>
+          <a href="https://www.linkedin.com/in/r0mell" target="_blank" rel="noreferrer"><AiFillLinkedin color='#fff' size="2rem" /></a>
+          <a href="https://www.instagram.com/r0mell_fer/?hl=es-la" target="_blank" rel="noreferrer"><AiFillInstagram color='#fff' size="2rem" /></a>
 
 
         </div>
@@ -55,9 +55,9 @@ const Navbar = () => {
                 <div className='navbar-menu-container-links '>
                   <Menu />
                   <div className="navbar-menu-container-links-sign">
-                    <a href="https://github.com/r0mell" target="_blank"><AiFillGithub color='#fff' size="2rem" /></a>
-                    <a href="https://www.linkedin.com/in/r0mell" target="_blank"><AiFillLinkedin color='#fff' size="2rem" /></a>
-                    <a href="https://www.instagram.com/r0mell_fer/?hl=es-la" target="_blank"><AiFillInstagram color='#fff' size="2rem" /></a>
+                    <a href="https://github.com/r0mell" target="_blank" rel="noreferrer"><AiFillGithub color='#fff' size="2rem" /></a>
+                    <a href="https://www.linkedin.com/in/r0mell" target="_blank" rel="noreferrer"><AiFillLinkedin color='#fff' size="2rem" /></a>
+                    <a href="https://www.instagram.com/r0mell_fer/?hl=es-la" target="_blank" rel="noreferrer"><AiFillInstagram color='#fff' size="2rem" /></a>
                   </div>
                 </div>
               </div >

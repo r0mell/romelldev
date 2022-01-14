@@ -2,7 +2,6 @@ import blog from '../assets/proyectImage/blog.png';
 import cloneGoogle from '../assets/proyectImage/cloneGoogle.png';
 import portafolio from '../assets/proyectImage/portafolio.png';
 import tecnyAge from '../assets/proyectImage/tecnyAge.png';
-import tecnyAge2 from '../assets/proyectImage/tecnyAge2.png';
 import unick from '../assets/proyectImage/unick.png';
 
 
