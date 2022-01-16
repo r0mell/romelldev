@@ -30,8 +30,8 @@
       /*efecto maquina de escribir*/
       white-space: nowrap;
       border-right: 2px solid;
-      width: 27ch;
-      animation: typingt 3s steps(25), blink 0.5s infinite step-end alternate;
+      width: 19ch;
+      animation: typingt 3s steps(19), blink 0.5s infinite step-end alternate;
       overflow: hidden;
    }
    @keyframes typingt {

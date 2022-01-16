@@ -35,7 +35,7 @@ const Footer = () => {
          </div>
          <div className="footer-copyright">
             <p>Realizado por Rommel Pumisacho</p>
-            <p> © R0mell. All rights reserved.</p>
+            <p> © R0mell 2021. All rights reserved.</p>
          </div>
       </div>
    )

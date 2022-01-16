@@ -15,19 +15,14 @@ import {
 const Skills = () => {
    return (
       <div className='skills-container section__margin' id='skills'>
-
          <div className='skills-header' >
             <h2>My Skills</h2>
          </div>
-
          <div className='skills-content'>
-
             <div className='skills-group'>
-
                <div className='skills-group-title'>
                   <h3>Tools</h3>
                </div>
-
                <div className='skills-group-icons'>
                   <img src={html} alt="" />
                   <p>Html</p>
@@ -44,16 +39,11 @@ const Skills = () => {
                   <img src={react} alt="" />
                   <p>React</p>
                </div>
-
             </div>
-
-
             <div className='skills-group'>
-
                <div className='skills-group-title'>
                   <h3>Tools</h3>
                </div>
-
                <div className='skills-group-icons'>
                   <img src={sass} alt="" />
                   <p>Scss</p>
@@ -67,13 +57,10 @@ const Skills = () => {
                   <p>Git/Github</p>
                </div>
             </div>
-
             <div className='skills-groupC'>
-
                <div className='skills-group-title'>
                   <h3>Others</h3>
                </div>
-
                <div className='skills-group-icons'>
                   <img src={primereact} alt="" />
                   <p>Primereact</p>
@@ -88,7 +75,6 @@ const Skills = () => {
                </div>
             </div>
          </div>
-
       </div>
    )
 }
